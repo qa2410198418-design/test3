@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "supabase-all": {
+      "type": "http",
+      "url": "https://mcp.supabase.com/mcp?project_ref=lyvoneamscvxdkbmueim"
+    },
+    "supabase-read": {
+      "type": "http",
+      "url": "https://mcp.supabase.com/mcp?project_ref=lyvoneamscvxdkbmueim&read_only=true"
+    }
+  }
+}
